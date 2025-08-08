@@ -26,11 +26,11 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Vermittlerrolle zwischen Fachbereichen und Entwicklungsteams
 
 ### Technische Kompetenz
-- **Programmiersprachen:** Python, Java, C++, .NET, SQL, VBA
+- **Programmiersprachen:** Python, Java, SQL, VBA
 - **Automatisierung & Containerisierung:** Docker
 - **CI/CD & DevOps:** Jenkins, GitHub Actions
 - **Systemumgebungen:** Windows, Linux (Ubuntu)
-- **Tools:** ServiceNow, Jira, Confluence, ABS (Allianz Business System)
+- **Tools:** ServiceNow, Jira, Confluence, Remedy, ABS (Allianz Business System)
 - Erstellung von Automatisierungslösungen und Tools zur Effizienzsteigerung im IT-Betrieb
 
 ---
@@ -43,7 +43,7 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 
 **Beschreibung:**
 - Aufbau eines dedizierten 2nd-Level-Teams in Indien zur Unterstützung von Allianz Sri Lanka
-- Aufnahme und Dokumentation aller Anforderungen in Zusammenarbeit mit Stakeholdern in Wien und Indien
+- Aufnahme und Dokumentation aller Anforderungen in Zusammenarbeit mit Stakeholdern in Wien, Sri Lanka und Indien
 - Remote-Coaching, Wissensvermittlung, Prozessübergabe, strukturierter Operational Go-Live
 - Umsetzung ohne agile Methoden, stattdessen klar strukturierter Projektplan
 - Nachhaltige Prozessstruktur, die heute noch im Einsatz ist
@@ -67,7 +67,7 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Sicherstellung einer hohen Systemverfügbarkeit (24/7)
 - Betrieb und Optimierung von Cloud- und On-Premises-Infrastrukturen
 - Wartung von CI/CD-Pipelines (Jenkins, GitHub Actions)
-- Entwicklung interner Tools (Java, Angular) zur Prozessoptimierung
+- Verantwortlich für die Erstellung und Pflege der 24/7 Dienstpläne
 
 **Cloud Operations Engineer**, Allianz Technology GmbH  
 *04/2024 – 06/2025*  
@@ -80,6 +80,7 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Management kritischer Incidents in globalen Systemen
 - Koordination internationaler Teams, Erstellung von RCA-Reports
 - ServiceNow- und Remedy-Nutzung für Incident-Tracking und SLA-Überwachung
+- Verantwortlich für die Erstellung und Pflege der Dienstpläne
 
 **IT User Support**, Allianz Technology GmbH  
 *07/2017 – 04/2021*  
@@ -104,8 +105,17 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Deutsch: Muttersprache
 - Englisch: C1 (Berlitz-Zertifikat, 2018)
 - Weitere Sprachen: Hindi, Punjabi
+- Aktuell lerne ich Kroatisch
 
 ---
+
+# Private Interessen<br/>
+  Sprachlich:<br/>
+  Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
+  Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
+  Kampfsport:<br/>
+  Seit Anfang Juli 2025 Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5, Prüfung Ende September<br/>
+  3x die Woche Kraftsport und jeden Tag 10000 Schritte<br/>
 
 ## Warum NoLock Software Lösungen
 
