@@ -1,16 +1,9 @@
 # Bewerbungsprofil – Navdeep Singh
 
-## Bewerbung auf die Position „Technical Operations Lead“ bei NoLock Software Lösungen
-
-Dieses Repository begleitet meine Bewerbung bei NoLock Software Lösungen und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Betrieb, Incident- und Projektmanagement sowie Prozessoptimierung.  
-Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativen Verantwortung und Teamkoordination mit – ideal für komplexe, interdisziplinäre IT-Operations-Aufgaben mit hohem Qualitätsanspruch.
-
----
-
 ## Fachliche Schwerpunkte
 
 ### IT Operations & Service Management
-- Langjährige Erfahrung in 24/7-Betriebsumgebungen, Incident- und Problemmanagement (ServiceNow, Remedy)
+- Langjährige Erfahrung in 24/7-Betriebsumgebungen, Incident- und Problemmanagement (ServiceNow, Remedy, Jira und Confluence)
 - Analyse, Steuerung und Optimierung von IT-Serviceprozessen (inkl. SLA-Überwachung und Root-Cause-Analysen)
 - Koordination und Führung internationaler Teams in kritischen Betriebsphasen
 - Erstellung und Pflege von Betriebs-, Eskalations- und Übergabedokumentationen
@@ -26,9 +19,9 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Vermittlerrolle zwischen Fachbereichen und Entwicklungsteams
 
 ### Technische Kompetenz
-- **Programmiersprachen:** Python, Java, SQL, VBA
+- **Programmiersprachen:** Python, Java, VBA
 - **Automatisierung & Containerisierung:** Docker
-- **CI/CD & DevOps:** Jenkins, GitHub Actions
+- **CI/CD & DevOps:** Jenkins
 - **Systemumgebungen:** Windows, Linux (Ubuntu)
 - **Tools:** ServiceNow, Jira, Confluence, Remedy, ABS (Allianz Business System)
 - Erstellung von Automatisierungslösungen und Tools zur Effizienzsteigerung im IT-Betrieb
@@ -39,7 +32,7 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 
 **Zeitraum:** März – Juni 2020  
 **Rolle:** Projektverantwortlicher (faktisch Projektleiter)  
-**Setup:** Remote-Projekt mit Wien, Indien und Sri Lanka
+**Setup:** Remote-Projekt mit Österreich, Indien und Sri Lanka
 
 **Beschreibung:**
 - Aufbau eines dedizierten 2nd-Level-Teams in Indien zur Unterstützung von Allianz Sri Lanka
@@ -65,20 +58,20 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 **Senior Cloud Operations Engineer**, Allianz Technology GmbH  
 *07/2025 – heute*  
 - Sicherstellung einer hohen Systemverfügbarkeit (24/7)
-- Betrieb und Optimierung von Cloud- und On-Premises-Infrastrukturen
-- Wartung von CI/CD-Pipelines (Jenkins, GitHub Actions)
+- Betrieb und Optimierung von Cloud-Infrastrukturen
+- Wartung von CI/CD-Pipelines (Jenkins)
 - Verantwortlich für die Erstellung und Pflege der 24/7 Dienstpläne
 
 **Cloud Operations Engineer**, Allianz Technology GmbH  
 *04/2024 – 06/2025*  
-- Unterstützung skalierbarer Cloud-Infrastrukturen (AWS, Docker)
+- Unterstützung skalierbarer Cloud-Infrastrukturen (Docker)
 - Entwicklung interner Tools und Dashboards zur Prozessoptimierung
 - Mitwirkung an agilen Scrum-Prozessen und cross-funktionaler Teamarbeit
 
 **Senior Incident Manager**, Allianz Technology GmbH  
 *05/2021 – 12/2023*  
 - Management kritischer Incidents in globalen Systemen
-- Koordination internationaler Teams, Erstellung von RCA-Reports
+- Koordination und Ergebnisverantwortlicher für internationale (Indien und Sri Lanka) Teams
 - ServiceNow- und Remedy-Nutzung für Incident-Tracking und SLA-Überwachung
 - Verantwortlich für die Erstellung und Pflege der Dienstpläne
 
@@ -124,11 +117,3 @@ NoLock Software Lösungen bietet ein modernes, dynamisches Arbeitsumfeld, in dem
 Die Aufgaben als Technical Operations Lead decken sich mit meinem bisherigen Werdegang: IT-Betrieb optimieren, komplexe Projekte steuern, Bereitschaftsdienste strukturieren und Prozesse nachhaltig verbessern.  
 Durch meine Erfahrung in internationalen Projekten, kombiniert mit tiefem technischem Verständnis und ausgeprägter Kommunikationsstärke, bin ich überzeugt, einen messbaren Beitrag zur Effizienzsteigerung und Servicequalität bei NoLock leisten zu können.
 
----
-
-## Kontakt
-
-**Navdeep Singh**  
-E-Mail: navdeepsingh@live.at  
-Ort: Wien  
-LinkedIn: [linkedin.com/in/navdeep-singh-9a6248159](https://www.linkedin.com/in/navdeep-singh-9a6248159)
