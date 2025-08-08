@@ -110,10 +110,11 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 ---
 
 # Private Interessen<br/>
-  Sprachlich:<br/>
+  **Sprachlich:**<br/>
   Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
+  **Gaming:**<br/>
   Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
-  Kampfsport:<br/>
+  **Kampfsport:**<br/>
   Seit Anfang Juli 2025 Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5, Prüfung Ende September<br/>
   3x die Woche Kraftsport und jeden Tag 10000 Schritte<br/>
 
